@@ -1,0 +1,2 @@
+org/jboss/arquillian/wildfly/embedded/example/MyService.class
+org/jboss/arquillian/wildfly/embedded/example/model/Person.class
